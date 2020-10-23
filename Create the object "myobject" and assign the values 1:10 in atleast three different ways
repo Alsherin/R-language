@@ -1,0 +1,10 @@
+# R-language
+#Create the object "myobject" and assign the values 1:10
+#in atleast three different ways
+myobject<-(1:10)
+
+myobject = (1:10)
+
+(1:10) -> myobject
+
+assign("myobject",1:10)
