@@ -1,0 +1,11 @@
+# R-language
+mysecondfn<-function(t,z)
+{
+  value=z*3
+  value=value*t
+  print(value)
+}
+t=5
+z=9
+
+mysecondfn(t,z)
