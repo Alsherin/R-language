@@ -1,0 +1,7 @@
+# R-language
+# create the following vector
+"R is great 4 and I wil love it"
+"R is great 7 and I wil love it"
+"R is great 45 and I wil love it"
+
+paste("R is great",c(4,7,45),"and I will love it")
