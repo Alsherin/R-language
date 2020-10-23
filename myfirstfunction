@@ -1,0 +1,3 @@
+# R-language
+myfirstfn<- function(x) {x+x}
+myfirstfn(10)
