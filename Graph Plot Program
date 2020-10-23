@@ -1,0 +1,10 @@
+# R-language
+?rivers
+x=1:141
+
+y=rivers
+
+plot(x,y,col ="green",pch=20,
+     main= "Lengths of \nmajor N. American Rivers",
+     col.main="red",xlab="",
+     ylab="length in miles")
